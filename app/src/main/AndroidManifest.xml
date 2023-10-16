@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.kelineyt" >
+
+    <application
+        android:name=".KelineApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/medtrack"
+        android:label="MEDTRACK"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="false"
+        android:theme="@style/Theme.KelineYt" >
+        <activity
+            android:name=".activities.edit_fb_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".activities.ShoppingActivity"
+            android:exported="false" />
+
+        <activity android:name=".activities.UpdateTipsActivity"
+            android:exported="false"/>
+        <activity android:name=".activities.UpdateRequestMedicineActivity"
+                  android:exported="false" />
+          <activity android:name=".activities.UpdateAddAvailabilityActivity"
+              android:exported="false"/>
+        <activity android:name=".activities.ratingActivity"
+            android:exported="false"/>
+        <activity
+            android:name=".activities.LoginRegisterActivity"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

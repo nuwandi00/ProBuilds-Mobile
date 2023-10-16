@@ -1,0 +1,194 @@
+[
+    {
+        "merged": "com.example.kelineyt.app-mergeDebugResources-54:/layout/rating.xml",
+        "source": "com.example.kelineyt.app-main-57:/layout/rating.xml"
+    },
+    {
+        "merged": "com.example.kelineyt.app-mergeDebugResources-54:/layout/billing_products_rv_item.xml",
+        "source": "com.example.kelineyt.app-main-57:/layout/billing_products_rv_item.xml"
+    },
+    {
+        "merged": "com.example.kelineyt.app-mergeDebugResources-54:/layout/product_rv_item.xml",
+        "source": "com.example.kelineyt.app-main-57:/layout/product_rv_item.xml"
+    },
+    {
+        "merged": "com.example.kelineyt.app-mergeDebugResources-54:/layout/fragment_introdcution.xml",
+        "source": "com.example.kelineyt.app-main-57:/layout/fragment_introdcution.xml"
+    },
+    {
+        "merged": "com.example.kelineyt.app-mergeDebugResources-54:/layout/available_details.xml",
+        "source": "com.example.kelineyt.app-main-57:/layout/available_details.xml"
+    },
+    {
+        "merged": "com.example.kelineyt.app-mergeDebugResources-54:/layout/update_healthtips.xml",
+        "source": "com.example.kelineyt.app-main-57:/layout/update_healthtips.xml"
+    },
+    {
+        "merged": "com.example.kelineyt.app-mergeDebugResources-54:/layout/fragment_user_account.xml",
+        "source": "com.example.kelineyt.app-main-57:/layout/fragment_user_account.xml"
+    },
+    {
+        "merged": "com.example.kelineyt.app-mergeDebugResources-54:/layout/order_item.xml",
+        "source": "com.example.kelineyt.app-main-57:/layout/order_item.xml"
+    },
+    {
+        "merged": "com.example.kelineyt.app-mergeDebugResources-54:/layout/color_rv_item.xml",
+        "source": "com.example.kelineyt.app-main-57:/layout/color_rv_item.xml"
+    },
+    {
+        "merged": "com.example.kelineyt.app-mergeDebugResources-54:/layout/fragment_billing.xml",
+        "source": "com.example.kelineyt.app-main-57:/layout/fragment_billing.xml"
+    },
+    {
+        "merged": "com.example.kelineyt.app-mergeDebugResources-54:/layout/my_scheduling_list_frgment.xml",
+        "source": "com.example.kelineyt.app-main-57:/layout/my_scheduling_list_frgment.xml"
+    },
+    {
+        "merged": "com.example.kelineyt.app-mergeDebugResources-54:/layout/fragment_search.xml",
+        "source": "com.example.kelineyt.app-main-57:/layout/fragment_search.xml"
+    },
+    {
+        "merged": "com.example.kelineyt.app-mergeDebugResources-54:/layout/best_deals_rv_item.xml",
+        "source": "com.example.kelineyt.app-main-57:/layout/best_deals_rv_item.xml"
+    },
+    {
+        "merged": "com.example.kelineyt.app-mergeDebugResources-54:/layout/fragment_profile.xml",
+        "source": "com.example.kelineyt.app-main-57:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "com.example.kelineyt.app-mergeDebugResources-54:/layout/fragment_orders.xml",
+        "source": "com.example.kelineyt.app-main-57:/layout/fragment_orders.xml"
+    },
+    {
+        "merged": "com.example.kelineyt.app-mergeDebugResources-54:/layout/activity_healthtips.xml",
+        "source": "com.example.kelineyt.app-main-57:/layout/activity_healthtips.xml"
+    },
+    {
+        "merged": "com.example.kelineyt.app-mergeDebugResources-54:/layout/tip_list.xml",
+        "source": "com.example.kelineyt.app-main-57:/layout/tip_list.xml"
+    },
+    {
+        "merged": "com.example.kelineyt.app-mergeDebugResources-54:/layout/list_frgamentfeedback.xml",
+        "source": "com.example.kelineyt.app-main-57:/layout/list_frgamentfeedback.xml"
+    },
+    {
+        "merged": "com.example.kelineyt.app-mergeDebugResources-54:/layout/cart_product_item.xml",
+        "source": "com.example.kelineyt.app-main-57:/layout/cart_product_item.xml"
+    },
+    {
+        "merged": "com.example.kelineyt.app-mergeDebugResources-54:/layout/reset_passowrd_dialog.xml",
+        "source": "com.example.kelineyt.app-main-57:/layout/reset_passowrd_dialog.xml"
+    },
+    {
+        "merged": "com.example.kelineyt.app-mergeDebugResources-54:/layout/special_rv_item.xml",
+        "source": "com.example.kelineyt.app-main-57:/layout/special_rv_item.xml"
+    },
+    {
+        "merged": "com.example.kelineyt.app-mergeDebugResources-54:/layout/fragment_main_category.xml",
+        "source": "com.example.kelineyt.app-main-57:/layout/fragment_main_category.xml"
+    },
+    {
+        "merged": "com.example.kelineyt.app-mergeDebugResources-54:/layout/viewpager_image_item.xml",
+        "source": "com.example.kelineyt.app-main-57:/layout/viewpager_image_item.xml"
+    },
+    {
+        "merged": "com.example.kelineyt.app-mergeDebugResources-54:/layout/update_availability.xml",
+        "source": "com.example.kelineyt.app-main-57:/layout/update_availability.xml"
+    },
+    {
+        "merged": "com.example.kelineyt.app-mergeDebugResources-54:/layout/activity_requestmedicineupdatedelete.xml",
+        "source": "com.example.kelineyt.app-main-57:/layout/activity_requestmedicineupdatedelete.xml"
+    },
+    {
+        "merged": "com.example.kelineyt.app-mergeDebugResources-54:/layout/fragment_account_options.xml",
+        "source": "com.example.kelineyt.app-main-57:/layout/fragment_account_options.xml"
+    },
+    {
+        "merged": "com.example.kelineyt.app-mergeDebugResources-54:/layout/edit_feedback.xml",
+        "source": "com.example.kelineyt.app-main-57:/layout/edit_feedback.xml"
+    },
+    {
+        "merged": "com.example.kelineyt.app-mergeDebugResources-54:/layout/doctor_availability_view.xml",
+        "source": "com.example.kelineyt.app-main-57:/layout/doctor_availability_view.xml"
+    },
+    {
+        "merged": "com.example.kelineyt.app-mergeDebugResources-54:/layout/fragment_product_details.xml",
+        "source": "com.example.kelineyt.app-main-57:/layout/fragment_product_details.xml"
+    },
+    {
+        "merged": "com.example.kelineyt.app-mergeDebugResources-54:/layout/fragment_register.xml",
+        "source": "com.example.kelineyt.app-main-57:/layout/fragment_register.xml"
+    },
+    {
+        "merged": "com.example.kelineyt.app-mergeDebugResources-54:/layout/fragment_order_detail.xml",
+        "source": "com.example.kelineyt.app-main-57:/layout/fragment_order_detail.xml"
+    },
+    {
+        "merged": "com.example.kelineyt.app-mergeDebugResources-54:/layout/actitivty_login_register.xml",
+        "source": "com.example.kelineyt.app-main-57:/layout/actitivty_login_register.xml"
+    },
+    {
+        "merged": "com.example.kelineyt.app-mergeDebugResources-54:/layout/list_fragmenttips.xml",
+        "source": "com.example.kelineyt.app-main-57:/layout/list_fragmenttips.xml"
+    },
+    {
+        "merged": "com.example.kelineyt.app-mergeDebugResources-54:/layout/fragment_home.xml",
+        "source": "com.example.kelineyt.app-main-57:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.example.kelineyt.app-mergeDebugResources-54:/layout/activity_shopping.xml",
+        "source": "com.example.kelineyt.app-main-57:/layout/activity_shopping.xml"
+    },
+    {
+        "merged": "com.example.kelineyt.app-mergeDebugResources-54:/layout/fragment_address.xml",
+        "source": "com.example.kelineyt.app-main-57:/layout/fragment_address.xml"
+    },
+    {
+        "merged": "com.example.kelineyt.app-mergeDebugResources-54:/layout/address_rv_item.xml",
+        "source": "com.example.kelineyt.app-main-57:/layout/address_rv_item.xml"
+    },
+    {
+        "merged": "com.example.kelineyt.app-mergeDebugResources-54:/layout/size_rv_item.xml",
+        "source": "com.example.kelineyt.app-main-57:/layout/size_rv_item.xml"
+    },
+    {
+        "merged": "com.example.kelineyt.app-mergeDebugResources-54:/layout/scheduling_list_frgment.xml",
+        "source": "com.example.kelineyt.app-main-57:/layout/scheduling_list_frgment.xml"
+    },
+    {
+        "merged": "com.example.kelineyt.app-mergeDebugResources-54:/layout/feedback_fragment.xml",
+        "source": "com.example.kelineyt.app-main-57:/layout/feedback_fragment.xml"
+    },
+    {
+        "merged": "com.example.kelineyt.app-mergeDebugResources-54:/layout/activity_requestmedicine.xml",
+        "source": "com.example.kelineyt.app-main-57:/layout/activity_requestmedicine.xml"
+    },
+    {
+        "merged": "com.example.kelineyt.app-mergeDebugResources-54:/layout/requestmedlist_fragment.xml",
+        "source": "com.example.kelineyt.app-main-57:/layout/requestmedlist_fragment.xml"
+    },
+    {
+        "merged": "com.example.kelineyt.app-mergeDebugResources-54:/layout/add_availability.xml",
+        "source": "com.example.kelineyt.app-main-57:/layout/add_availability.xml"
+    },
+    {
+        "merged": "com.example.kelineyt.app-mergeDebugResources-54:/layout/fragment_base_category.xml",
+        "source": "com.example.kelineyt.app-main-57:/layout/fragment_base_category.xml"
+    },
+    {
+        "merged": "com.example.kelineyt.app-mergeDebugResources-54:/layout/list_fragmentrequestmedicine.xml",
+        "source": "com.example.kelineyt.app-main-57:/layout/list_fragmentrequestmedicine.xml"
+    },
+    {
+        "merged": "com.example.kelineyt.app-mergeDebugResources-54:/layout/myfeedbacklis_fragment.xml",
+        "source": "com.example.kelineyt.app-main-57:/layout/myfeedbacklis_fragment.xml"
+    },
+    {
+        "merged": "com.example.kelineyt.app-mergeDebugResources-54:/layout/fragment_cart.xml",
+        "source": "com.example.kelineyt.app-main-57:/layout/fragment_cart.xml"
+    },
+    {
+        "merged": "com.example.kelineyt.app-mergeDebugResources-54:/layout/fragment_login.xml",
+        "source": "com.example.kelineyt.app-main-57:/layout/fragment_login.xml"
+    }
+]
